@@ -75,7 +75,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://sergskol.github.io/myMeals/)
+- [Live Demo Link](https://sergskol.github.io/myMeals/dist/)
 
 <!-- GETTING STARTED -->
 
