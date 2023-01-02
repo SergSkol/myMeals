@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>JS-capstone-project</b></h1>
+  <h1><b>My Meals</b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -26,12 +26,17 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 JS-capstone-project <a name="about-project"></a>
+# 📖 My Meals <a name="about-project"></a>
 
-**JS-capstone-project**  is about building own web application based on an external API. Data is preserved thanks to the external API service.
+**My Meals**  is about building own web application based on an external API. Data is preserved thanks to the external API service.
 
 # 👁‍🗨 Preview
 
+![image](https://user-images.githubusercontent.com/106581139/205300179-3a692fa0-24cb-4930-adb9-fca76d31076f.png)
+
+![image](https://user-images.githubusercontent.com/106581139/205300315-978afac7-e34f-4a7e-92dd-47cb18b53f73.png)
+
+![image](https://user-images.githubusercontent.com/106581139/205300433-a7cc6830-fecf-4544-9ec1-68db75be4508.png)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -70,7 +75,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://odaialazzeh.github.io/JS-capstone-project/dist/)
+- [Live Demo Link](https://sergskol.github.io/myMeals/dist/)
 
 <!-- GETTING STARTED -->
 
@@ -96,7 +101,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/odaialazzeh/JS-capstone-project.git
+  git clone https://github.com/SergSkol/myMeals.git
 ```
 
 ### Install
@@ -104,7 +109,7 @@ Clone this repository to your desired folder:
 Install all the dependencys required for the website, by using the command below
 
 ```sh
-  cd JS-capstone-project
+  cd myMeals
   npm install
 ```
 
